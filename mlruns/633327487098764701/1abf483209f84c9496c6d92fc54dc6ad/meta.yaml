@@ -1,0 +1,15 @@
+artifact_uri: file:///home/walid/mnif-walid-4ds7-ml_project/mlruns/633327487098764701/1abf483209f84c9496c6d92fc54dc6ad/artifacts
+end_time: 1740344716782
+entry_point_name: ''
+experiment_id: '633327487098764701'
+lifecycle_stage: active
+run_id: 1abf483209f84c9496c6d92fc54dc6ad
+run_name: youthful-dolphin-201
+run_uuid: 1abf483209f84c9496c6d92fc54dc6ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740344716773
+status: 3
+tags: []
+user_id: walid

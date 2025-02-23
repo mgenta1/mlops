@@ -1,0 +1,15 @@
+artifact_uri: file:///home/walid/mnif-walid-4ds7-ml_project/mlruns/633327487098764701/e00ea85f0bd040509aa3cdfc74699abe/artifacts
+end_time: 1740342890749
+entry_point_name: ''
+experiment_id: '633327487098764701'
+lifecycle_stage: active
+run_id: e00ea85f0bd040509aa3cdfc74699abe
+run_name: selective-mule-939
+run_uuid: e00ea85f0bd040509aa3cdfc74699abe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740342890742
+status: 4
+tags: []
+user_id: walid
