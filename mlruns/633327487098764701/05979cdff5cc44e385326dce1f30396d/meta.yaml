@@ -1,0 +1,15 @@
+artifact_uri: file:///home/walid/mnif-walid-4ds7-ml_project/mlruns/633327487098764701/05979cdff5cc44e385326dce1f30396d/artifacts
+end_time: 1740390946277
+entry_point_name: ''
+experiment_id: '633327487098764701'
+lifecycle_stage: active
+run_id: 05979cdff5cc44e385326dce1f30396d
+run_name: dazzling-fish-567
+run_uuid: 05979cdff5cc44e385326dce1f30396d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740390940756
+status: 3
+tags: []
+user_id: walid

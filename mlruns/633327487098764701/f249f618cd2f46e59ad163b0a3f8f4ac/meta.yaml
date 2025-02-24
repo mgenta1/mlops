@@ -1,0 +1,15 @@
+artifact_uri: file:///home/walid/mnif-walid-4ds7-ml_project/mlruns/633327487098764701/f249f618cd2f46e59ad163b0a3f8f4ac/artifacts
+end_time: 1740390932845
+entry_point_name: ''
+experiment_id: '633327487098764701'
+lifecycle_stage: active
+run_id: f249f618cd2f46e59ad163b0a3f8f4ac
+run_name: unequaled-swan-63
+run_uuid: f249f618cd2f46e59ad163b0a3f8f4ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740390932827
+status: 3
+tags: []
+user_id: walid

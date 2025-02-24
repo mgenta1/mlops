@@ -33,6 +33,6 @@ jobs:
       # Étape 4 : Exécuter les étapes du Makefile
       - name: Run Makefile steps
         run: |
-          make prepare
-          make train
-          make test
+          make -k prepare
+          make -k train
+          make -k test
